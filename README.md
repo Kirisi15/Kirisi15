@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kirisi15&show_icons=true&theme=tokyonight" alt="Kirisi's GitHub stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kirisi15&theme=tokyonight&hide_border=false" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kirisi15&theme=tokyonight&hide_border=false" width="50%"/>
 </p>
 
 ---
