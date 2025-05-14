@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm studying **Software Engineering** at **University of Kelaniya**
-- 🚀 I'm currently working on **Spring Boot + JWT + React projects**
-- 🤖 I'm building Web pages
-- 🌱 Learning: `Spring Security`, `Web Development`
-- 💡 Future Goal: Want to be a **Project Manager**
-- ❤️ Chasing my **Dreams** 💖
+- 🎓 I'm currently pursuing **Software Engineering** at **University of Kelaniya**
+- 🚀 Actively working on **Spring Boot + JWT + React projects**
+- 🌱 Learning `Spring Security`, `React`, and exploring full-stack development
+- 🛠️ Passionate about building interactive and secure web applications
+- 🎯 Aspiring to become a **Project Manager** in the tech industry
+- 💖 Living with passion and chasing my **dreams**
 
 ---
 
@@ -43,7 +43,9 @@
 
 ## 🏆 Achievements
 
-![Pull Shark](https://img.shields.io/badge/🧪_Pull%20Shark-blueviolet)
+- 🎯 `Pull Shark` contributor badge
+- ⭐ Open source enthusiast
+- 💬 Sharing knowledge and always learning
 
 
 ---
