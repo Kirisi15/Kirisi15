@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kirisi</h1>
-<h3 align="center">A passionate Software Engineering student from Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi 👋, I'm Kirisigan Kannathasan</h1>
+<h3 align="center">A passionate Software Engineering student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-stack+Developer+in+Progress;Spring+Boot+%2B+React+Lover;Arduino+and+Embedded+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-stack+Developer+in+Progress;" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,10 +11,10 @@
 
 - 🎓 I'm studying **Software Engineering** at **University of Kelaniya**
 - 🚀 I'm currently working on **Spring Boot + JWT + React projects**
-- 🤖 I'm building Arduino-based hardware projects for university
-- 🌱 Learning: `Spring Security`, `Web Development`, `Stock Market`
-- 💡 Future Goal: Move to the UK and become a **Tech Pro**
-- ❤️ I love exploring new tech with **Dilaksi** 💖
+- 🤖 I'm building Web pages
+- 🌱 Learning: `Spring Security`, `Web Development`
+- 💡 Future Goal: Want to be a **Project Manager**
+- ❤️ Chasing my **Dreams** 💖
 
 ---
 
@@ -44,16 +44,14 @@
 ## 🏆 Achievements
 
 ![Pull Shark](https://img.shields.io/badge/🧪_Pull%20Shark-blueviolet)
-![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy%20Brain-success)
-![Bug Hunter](https://img.shields.io/badge/🐛_Bug%20Hunter-important)
-![Arctic Code Vault](https://img.shields.io/badge/🏔️_Arctic_Contributor-lightblue)
+
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirisi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![Gmail](https://img.shields.io/badge/Gmail-kirisi15@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kirisi15@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kkirisigan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kkirisigan@gmail.com)
 
 ---
 
